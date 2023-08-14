@@ -6,7 +6,7 @@ This repository contains a video demo of IEEE/CVF International Conference on Co
 ## Demo video
 A demo video contains the original speech, the generated speech from previous state-of-the-art works <a id="1">[1-3]</a>, and the generated speech from the proposed method from three different speakers on both LRS2 and LRS3 datasets, respectively. 
 The video demo is located in demo-video folder in our repository, and it is also available in Youtube: 
-- LRS2 and LRS3 [[Demo Video]]() 
+- LRS2 and LRS3 [[Demo Video]](https://youtu.be/byZeAUB_D4A) 
 
 <example>
  <p align="center">
